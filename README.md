@@ -1,4 +1,4 @@
-# reviews-scrapper
+# reviews-scraper
 Walmart online reviews scrapper.
 All you have to do to get the reviews is to run the script and then enter the product id which is the last part of the product page
 ## Disclaimer
